@@ -6,8 +6,9 @@ categories: brain-box
 tags: opencann brain-box bom
 ---
 
-This project was inspired by the [OpenAg Brain Box](https://github.com/OpenAgInitiative/openag_brain_box).
+The Brain Box is a compute module for controlling a small scale grow environment, gathering data, and optimizing environmental variables. It is a 21st century version of the classic environmental controller that was originally developed for indoor cannabis cultivation (and greenhouse agriculture).
 
+This project was inspired by the [OpenAg Brain Box](https://github.com/OpenAgInitiative/openag_brain_box).
 
 
 
